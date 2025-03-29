@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aptos-labs/wallet-adapter-react": "^5.0.0",
+    "aptos": "^1.21.0"
+  }
+}

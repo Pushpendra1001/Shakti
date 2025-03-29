@@ -1,0 +1,10 @@
+[package]
+name = "shakti"
+version = "0.0.1"
+authors = ["Team_Shakti"]
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "devnet" }
+
+[addresses]
+shakti = "0x9736c85b618cca69153cba01370fb3af218a65537812f82b7c3b96538a8e65a0"
