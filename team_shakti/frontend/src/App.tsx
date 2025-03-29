@@ -1,19 +1,16 @@
-import { useState } from 'react';
-import { AptosClient } from 'aptos';
-
-const client = new AptosClient('https://fullnode.devnet.aptoslabs.com/v1');
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./Comp/Home";
+import Dashboard from "./Comp/Dashboard";
 
 function App() {
-    const [account, setAccount] = useState(null);
-
-    const connectWallet = async () => {
-    }
-
-    return (
-        <div>
-            {
-                
-            }
-        </div>
-    );
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/dashboard" element={<Dashboard />} />
+      </Routes>
+    </Router>
+  );
 }
+
+export default App;

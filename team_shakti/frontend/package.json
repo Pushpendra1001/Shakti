@@ -13,7 +13,8 @@
     "@martianwallet/aptos-wallet-adapter": "^0.0.5",
     "@pontem/wallet-adapter-plugin": "^0.2.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
