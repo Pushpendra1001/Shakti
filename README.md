@@ -1,6 +1,4 @@
-
-Shakti
-
+<h1> Shakti </h1>
 
 Shakti is a real-time monitoring system designed to detect anomalies efficiently. It provides a user-friendly dashboard to visualize and analyze detected irregularities.
 
