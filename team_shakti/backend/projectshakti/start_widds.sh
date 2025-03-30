@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start Flask Backend
-nohup python3 app1.py &
+nohup python3.12 app1.py &
 
 # Start Deauth Attack Detection
 echo "Starting Deauth Detection..."
