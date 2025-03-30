@@ -1,4 +1,5 @@
-# Shakti
+
+<img width="206" alt="Screenshot 2025-03-30 at 12 17 48 PM" src="https://github.com/user-attachments/assets/dd17ea11-f79a-4658-b135-5c4db06cd79c" />
 
 Shakti is a real-time monitoring system designed to detect anomalies efficiently. It provides a user-friendly dashboard to visualize and analyze detected irregularities.
 
