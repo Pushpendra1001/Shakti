@@ -11,7 +11,8 @@ function Nav() {
   return (
     <div className="h-[8vh] flex justify-between items-center px-6 text-white backdrop-blur-md bg-white/10 rounded-lg fixed top-4 left-1/2 transform -translate-x-1/2 w-[90%] z-50">
       {/* Logo */}
-      <h1 className="text-lg font-semibold">Shakti®</h1>
+      {/* <h1 className="text-lg font-semibold">Shakti®</h1> */}
+      <img src="./logo.png" alt="" className="h-[6vh] mix-blend-color" />
 
       {/* Navigation Menu */}
       <ul className="flex gap-6 text-sm">

@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.37.1",
+    "@aptos-labs/wallet-adapter-ant-design": "^4.0.9",
     "@aptos-labs/wallet-adapter-react": "^5.0.0",
-    "aptos": "^1.21.0"
+    "antd": "^5.24.5",
+    "aptos": "^1.21.0",
+    "react-router-dom": "^7.4.1"
   }
 }
